@@ -1,4 +1,4 @@
-//OBSTACLE AVOIDANCE 
+//This program is used for for the Robot car for OBSTACLE AVOIDANCE when it is in range
 
 #include <Servo.h> // Include Servo library for servo control  
 
