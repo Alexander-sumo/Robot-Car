@@ -1,4 +1,4 @@
-//The Robot car uses the value of the sensor on the bottem to Follow the Black line of tape
+//The Robot car uses the value of the sensor on the bottom to Follow the Black line of tape
 
 // Pin Definitions for Motor Control 
 const int pinA = 5;  // Motor A speed (PWM) 
